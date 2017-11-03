@@ -1,5 +1,5 @@
 var Discord = require('discord.io');
-const serverName = 'Mafia Mafiotilor'
+const serverName = 'SV'
 var roleName = 'Rainbow'
 var bot = new Discord.Client({
     token: "MzYzMDIyOTk5NjY4MTI5Nzk1.DLDbyg.FWws0z09DSi5WqmM8SQH3NV_GXU",
